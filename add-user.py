@@ -1,4 +1,4 @@
-from pyrogram import Client
+from import Client
 import json
 import time
 import random
